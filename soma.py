@@ -127,3 +127,17 @@ elif pontuacao <= 10:
     print("Alerta Alto da caldeira.")
 else:
     print("pontuação invalida coloque um valor entre 1 e 10.")"""
+
+# atividade 11
+"""Valor_de_Frete = float(input("Digite o valor do frete: "))
+ 
+if Valor_de_Frete >= 1000 and Valor_de_Frete <= 1000.01:
+    print("Sem desconto.")
+elif Valor_de_Frete >= 1000.01 and Valor_de_Frete <= 5000:
+    soma = Valor_de_Frete - (Valor_de_Frete * 0.05)
+    print(f"Desconto de 5% aplicado. Valor com desconto: {soma:.2f}")
+elif Valor_de_Frete >= 5000.01 and Valor_de_Frete <= 10000:
+    soma = Valor_de_Frete - (Valor_de_Frete * 0.10)
+    print(f"Desconto de 10% aplicado. Valor com desconto: {soma:.2f}")
+else:
+    print("Valor de frete inválido. Por favor, digite um valor válido."""")
