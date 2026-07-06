@@ -140,4 +140,6 @@ elif Valor_de_Frete >= 5000.01 and Valor_de_Frete <= 10000:
     soma = Valor_de_Frete - (Valor_de_Frete * 0.10)
     print(f"Desconto de 10% aplicado. Valor com desconto: {soma:.2f}")
 else:
-    print("Valor de frete inválido. Por favor, digite um valor válido."""")
+    print("Valor de frete inválido. Por favor, digite um valor válido.)"""
+
+# atividade 
